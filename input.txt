@@ -1,0 +1,6 @@
+rat
+cat
+bat
+hat
+pat
+fat
